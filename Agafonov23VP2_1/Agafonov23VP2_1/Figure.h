@@ -56,3 +56,4 @@ public:
     virtual void hide(Graphics^ g) override;
     virtual void move(int dx, int dy, Graphics^ g) override;
 };
+//Circle добавлен
