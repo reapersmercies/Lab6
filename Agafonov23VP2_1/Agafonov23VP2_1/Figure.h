@@ -27,6 +27,17 @@ public:
     };
 };
 
+ref class MyStar : public Figure {
+public:    MyStar(int _x, int _y, int _R, int _r) : Figure(_x, _y, _R), r(_r) {}
+      virtual void draw(Graphics^ g) override;
+      virtual void hide(Graphics^ g) override;    virtual void move(int dx, int dy, Graphics^ g) override;
+      int r;
+
+      ref class IncorrectRadius : System::Exception {
+      public:
+          IncorrectRadius(System::String^ message) : System::Exception(message) {}
+      };
+};
 ref class MyCircle : public Figure
 {
 public:
