@@ -1,0 +1,30 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  Figure.cpp
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(19,10): warning C4677: stack: сигнатура члена, не являющегося частным, содержит частный тип сборки "FStack"
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(597,41): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(601,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(605,41): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(661,41): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(665,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(669,41): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(51,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(54,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(54,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(55,19): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(66,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(69,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(69,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Figure.cpp(70,19): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Form1.cpp
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(19,10): warning C4677: stack: сигнатура члена, не являющегося частным, содержит частный тип сборки "FStack"
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(597,41): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(601,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(605,41): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(661,41): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(665,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\vlado\source\repos\Agafonov23VP2_1\Agafonov23VP2_1\Form1.h(669,41): warning C4101: ex: неиспользованная локальная переменная
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\vlado\source\repos\Agafonov23VP2_1\x64\Debug\Agafonov23VP2_1.exe"
